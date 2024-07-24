@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**scrkiddie/scrkiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img
+      src="https://cowsay-svg.vercel.app/?text=Hi,%20I%27m%20a%20Software%20Engineer%20focusing%20on%20Go%20%26%20TypeScript.%20Passionate%20about%20systems%20programming,%20security,%20and%20performance.&duration=4&colors=%23DC2626,%23F97316,%23FACC15,%23F97316,%23DC2626&cascadeDirection=diag-tlbr&cow=dragon-and-cow&timing=linear"
+      width="412px"
+       />
+  <img
+      src="https://cowsay-svg.vercel.app/?duration=4&colors=%2315803D,%2322C55E,%2384CC16,%2322C55E,%2315803D&cascadeDirection=diag-tlbr&timing=linear&cow=stegosaurus"
+      width="412px"
+       />
+</div>
