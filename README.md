@@ -1,10 +1,10 @@
 ```
- ______________________________________
-/ How many programmers does it take to \
-| screw in a light bulb?               |
-|                                      |
-\ None. It's a hardware problem.       /
- --------------------------------------
+ ___________________________________
+/ What is a dying programmer's last \
+| program?                          |
+|                                   |
+\ Goodbye, world!                   /
+ -----------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
