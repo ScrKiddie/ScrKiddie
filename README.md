@@ -1,10 +1,9 @@
 ```
- ___________________________________
-/ What is a dying programmer's last \
-| program?                          |
-|                                   |
-\ Goodbye, world!                   /
- -----------------------------------
+ ______________________________________
+/ // This line doesn't actually do     \
+| anything, but the code stops working |
+\ when I delete it.                    /
+ --------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
